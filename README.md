@@ -1,30 +1,14 @@
-# vue-switch-timing
+# Demo是一个插座定时，原本用于与设备绑定，数据也都是通过设备获取，此处并无设备，故数据是本地json。
+# 时间选择器之前用了Vant组件库，有点问题，尚待解决
 
-> A Vue.js project
+# 技术栈：vue系列 ，所用脚手架是 vue-cli
 
-## Build Setup
+# git clone https://github.com/Pareet-fan/vue-switch-timing.git
 
-``` bash
-# install dependencies
-npm install
+# cd vue-switch-timing
 
-# serve with hot reload at localhost:8080
-npm run dev
+# npm install
 
-# build for production with minification
-npm run build
+# npm start
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# 后续功能不断完善中...
