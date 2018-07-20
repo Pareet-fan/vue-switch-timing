@@ -11,4 +11,6 @@
 
 # npm start
 
+# http://localhost:8080
+
 # 后续功能不断完善中...
